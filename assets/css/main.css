@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+  .brand {
+    color: #590F4D;
+    font-weight: bold;
+  }
+
 /* Box Model */
 
 	*, *:before, *:after {
