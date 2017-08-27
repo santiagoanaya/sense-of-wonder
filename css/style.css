@@ -2010,7 +2010,7 @@ table#miyazaki {
   background: rgba(0,0,0,.15);
   color: #fff;
   text-rendering: optimizeLegibility;
-  border-radius: 5px; 
+  border-radius: 10px; 
 }
 table#miyazaki caption { 
   font-size: 1rem; color: #444;
@@ -2030,8 +2030,8 @@ table#miyazaki tbody td {
   color: #444; background: #FFFFFF; 
 }
 table#miyazaki tbody tr:not(:last-child) { 
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;  
+  border-top: 3px solid #ddd;
+  border-bottom: 3px solid #ddd;  
 }
 
 @media screen and (max-width: 600px) {
